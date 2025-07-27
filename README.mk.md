@@ -36,8 +36,11 @@ java Gravitacija
 ## 📄 Пример излез
 
 Vnesete visina (v metrih)
+
 1000000
+
 Pospesek je enak: 7.337700 m/s^2
+
 Visina je enaka: 1000000 m
 
 ## 👤 Автор
